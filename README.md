@@ -8,55 +8,46 @@
 
 ### 💫 About Me
 
-- 🔭 I’m currently working on exciting full-stack and mobile projects.
-- 🌱 Learning: **React Native, Flask, Java, C++, Python**, and **Data Structures & Algorithms**.
-- 👯 Open to collaboration on innovative ideas and development teams.
-- 💬 Ask me about **React.js, Next.js, Node.js, Express.js, Flask, and React Native**.
+- 🔭 Currently working on exciting full-stack and mobile app projects.
+- 🌱 Learning: **React Native**, **Flask**, **Java**, **C++**, **Python**, and **Data Structures & Algorithms**.
+- 👯 Open to collaborating on innovative ideas and development teams.
+- 💬 Ask me about **React.js**, **Next.js**, **Node.js**, **Express.js**, **Flask**, and **React Native**.
 - 📫 Reach me at: **kosireddysudheer803@gmail.com**
 - 👨‍💻 My Portfolio: [myprotifolio.vercel.app](https://myprotifolio.vercel.app/)
 - 📄 LinkedIn: [Sudheer Kosireddi](https://www.linkedin.com/in/sudheer-kosireddi-430729258/)
 
 ---
 
-1. Blood Donation Portal
-A web platform that connects blood donors and recipients using location-based search and instant communication features.
+### 🚀 Projects
 
-Features:
+#### 1. **Blood Donation Portal**
+A web platform that connects blood donors and recipients using location-based search and instant communication.
 
-Real-time map showing available donors in your college and nearby areas.
+**Features:**
+- Real-time map showing available donors in your college and nearby areas.
+- Dashboard displaying statistics like total donations, number of student donors, and donation history.
+- SMS/email alerts for emergency blood requests.
 
-Dashboard displaying statistics such as the number of donations made, how many students have donated, and donation history per student.
+#### 2. **Student Analysis & Placement Predictor**
+A web + mobile application providing insights into placement readiness and student performance.
 
-SMS/email alerts for emergency blood needs.
+**Features:**
+- Comprehensive test system including **MCQs**, **coding rounds**, and **mock interviews**.
+- Performance analytics and test history.
+- Smart chatbot that gives real-time feedback and guidance.
+- College-wise placement stats and trend visualization.
 
-2. Student Analysis & Placement Predictor
-A web + mobile application that provides insights into placement preparation and performance analysis.
+#### 3. **Memory Card Game**
+An interactive memory game to boost focus and recall by matching card pairs.
 
-Features:
-
-Comprehensive test system including MCQs, coding assessments, and mock interviews.
-
-Performance tracking through scores, analytics, and progress history.
-
-Integrated chatbot for real-time analysis, tips, and guidance based on test results.
-
-Placement stats visualization for your college/branch.
-
-3. Memory Card Game
-An interactive memory game designed to improve focus and cognitive recall by matching card pairs.
-
-Features:
-
-Multiple difficulty levels with increasing number of cards.
-
-Timer and scoring system to track progress.
-
-Responsive design for mobile and desktop.
- 
+**Features:**
+- Multiple difficulty levels with increasing card counts.
+- Timer and scoring system.
+- Fully responsive for both desktop and mobile.
 
 ---
 
-## 🌐 Socials
+### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-kosireddi-430729258/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudheer.Mr.unique)
@@ -64,14 +55,16 @@ Responsive design for mobile and desktop.
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
-**Languages & Core:**
+**Languages:**
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Web & Mobile:**
+**Web & Mobile Development:**
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react--native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -80,17 +73,17 @@ Responsive design for mobile and desktop.
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 **Tools & Deployment:**
+
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kosireddisudheer&theme=dark&hide_border=false)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kosireddisudheer)
 
 ---
-
