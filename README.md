@@ -12,7 +12,7 @@
 - 🌱 Learning: **React Native, Flask, Java, C++, Python**, and **Data Structures & Algorithms**.
 - 👯 Open to collaboration on innovative ideas and development teams.
 - 💬 Ask me about **React.js, Next.js, Node.js, Express.js, Flask, and React Native**.
-- 📫 Reach me at: **kosireddisudheer@gmail.com**
+- 📫 Reach me at: **kosireddysudheer803@gmail.com**
 - 👨‍💻 My Portfolio: [myprotifolio.vercel.app](https://myprotifolio.vercel.app/)
 - 📄 LinkedIn: [Sudheer Kosireddi](https://www.linkedin.com/in/sudheer-kosireddi-430729258/)
 
@@ -34,7 +34,7 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-kosireddi-430729258/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kosireddisudheer)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudheer.Mr.unique)
 [![X](https://img.shields.io/badge/X-black.svg?logo=twitter&logoColor=white)](https://x.com)
 
 ---
