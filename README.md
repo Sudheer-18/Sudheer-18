@@ -18,16 +18,41 @@
 
 ---
 
-### 🚀 Projects
+1. Blood Donation Portal
+A web platform that connects blood donors and recipients using location-based search and instant communication features.
 
-1. **Blood Donation Web App**  
-   A platform connecting donors and receivers with location-based search and instant communication.
+Features:
 
-2. **Student Analysis & Placement Bot**  
-   A web + mobile platform providing insights on placement stats and a bot for real-time analysis.
+Real-time map showing available donors in your college and nearby areas.
 
-3. **Memory Game Web App**  
-   A fun, dynamic memory game to test focus and pattern recall. Built with animations and logic for all ages.
+Dashboard displaying statistics such as the number of donations made, how many students have donated, and donation history per student.
+
+SMS/email alerts for emergency blood needs.
+
+2. Student Analysis & Placement Predictor
+A web + mobile application that provides insights into placement preparation and performance analysis.
+
+Features:
+
+Comprehensive test system including MCQs, coding assessments, and mock interviews.
+
+Performance tracking through scores, analytics, and progress history.
+
+Integrated chatbot for real-time analysis, tips, and guidance based on test results.
+
+Placement stats visualization for your college/branch.
+
+3. Memory Card Game
+An interactive memory game designed to improve focus and cognitive recall by matching card pairs.
+
+Features:
+
+Multiple difficulty levels with increasing number of cards.
+
+Timer and scoring system to track progress.
+
+Responsive design for mobile and desktop.
+ 
 
 ---
 
